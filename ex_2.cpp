@@ -1,4 +1,13 @@
-// Sum in loop
+/*
+ Sum in loop
+ input data:
+ 8
+ 10 20 30 40 5 6 7 8
+ 
+ answer:
+ 126
+*/
+
 #include <iostream>
 
 int get_user_input()
